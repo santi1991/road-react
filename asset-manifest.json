@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/road-react/static/css/main.fb8a2314.chunk.css",
+    "main.js": "/road-react/static/js/main.d960cb0d.chunk.js",
+    "main.js.map": "/road-react/static/js/main.d960cb0d.chunk.js.map",
+    "runtime-main.js": "/road-react/static/js/runtime-main.3f9f20eb.js",
+    "runtime-main.js.map": "/road-react/static/js/runtime-main.3f9f20eb.js.map",
+    "static/js/2.b37f7417.chunk.js": "/road-react/static/js/2.b37f7417.chunk.js",
+    "static/js/2.b37f7417.chunk.js.map": "/road-react/static/js/2.b37f7417.chunk.js.map",
+    "static/js/3.237379ab.chunk.js": "/road-react/static/js/3.237379ab.chunk.js",
+    "static/js/3.237379ab.chunk.js.map": "/road-react/static/js/3.237379ab.chunk.js.map",
+    "index.html": "/road-react/index.html",
+    "static/css/main.fb8a2314.chunk.css.map": "/road-react/static/css/main.fb8a2314.chunk.css.map",
+    "static/js/2.b37f7417.chunk.js.LICENSE.txt": "/road-react/static/js/2.b37f7417.chunk.js.LICENSE.txt",
+    "static/media/check.c2b627a8.svg": "/road-react/static/media/check.c2b627a8.svg",
+    "static/media/down-arrow.b270d2dd.svg": "/road-react/static/media/down-arrow.b270d2dd.svg",
+    "static/media/up-arrow.301f0ad6.svg": "/road-react/static/media/up-arrow.301f0ad6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9f20eb.js",
+    "static/js/2.b37f7417.chunk.js",
+    "static/css/main.fb8a2314.chunk.css",
+    "static/js/main.d960cb0d.chunk.js"
+  ]
+}
